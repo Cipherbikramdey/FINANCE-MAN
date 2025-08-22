@@ -51,14 +51,4 @@ To leverage my academic knowledge and practical exposure in the field of cyberse
 
 ---
 
-## 📊 GitHub Activity  
-
-![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cipherbikramdey&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherbikramdey&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipherbikramdey&theme=radical)  
-
----
-
 ⭐️ *Actively learning and contributing in Cybersecurity & Ethical Hacking fields.*
