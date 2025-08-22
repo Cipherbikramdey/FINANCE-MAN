@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bikram Dey  
 
-🎓 4th semester, 2nd year **B.Sc in Advance Networking & Cyber Security** student at Brainware University.  
+🎓 5th semester, 3rd year **B.Sc in Advance Networking & Cyber Security** student at Brainware University.  
 💻 Passionate about **Cybersecurity, Penetration Testing, Networking, and Cloud Technologies**.  
 📌 Currently exploring **VAPT, WAPT, and NPT**.  
 
@@ -12,9 +12,9 @@ To leverage my academic knowledge and practical exposure in the field of cyberse
 ---
 
 ## 🎓 Education  
-- **Brainware University (2025)**  
+- **Brainware University 
   Bachelor of Science in Advance Networking & Cyber Security  
-  **CGPA:** 9.2 / 10  
+  **SGPA:**  9.55
 
 - **12th (Higher Secondary, 2023)**  
   West Bengal Board of Secondary Education  
